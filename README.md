@@ -5,7 +5,8 @@
 <br>유튜브 : http://bit.ly/hg-mldl-youtube
 <br>깃허브 : https://github.com/rickiepark/hg-mldl
 - Time : [비대면] On Friday, 6 PM
-- How : 활동 시간(권장)에 각자 해당 주차 강의 영상 시청 후 배운 내용을 정리하여 깃허브 해당 주차 파일에 올리기(각자 원하는 방식)
+- How : 활동 시간(권장)에 각자 해당 주차 강의 영상 시청 후 배운 내용을 정리하여 깃허브 해당 주차 파일에 올리기
+<br>(각자 원하는 방식, colab을 이용하여 공부하고 추가적으로 내용 정리하여 올리는 방법 추천)
 
 ### Contents
 |날짜|목차|
